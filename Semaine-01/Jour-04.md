@@ -7,23 +7,23 @@
 
 #### Github + Gitflow
 
-- [ ] Découverte de Github CLI `gh`
+- [X] Découverte de Github CLI `gh`
 
-  - [ ] Créer son premier repo Github (local + origin)
+  - [X] Créer son premier repo Github (local + origin)
 
-- [ ] Découverte de Gitflow
+- [X] Découverte de Gitflow
 
 ### Markdown :
 
-- [ ] Comprendre l'intérêt du Markdown
+- [X] Comprendre l'intérêt du Markdown
 - [ ] Découvrir les balises de bases :
-  - [ ] Titres
+  - [X] Titres
   - [ ] Images
-  - [ ] Listes
-  - [ ] Formatage de texte (italique, souligné, gras)
-  - [ ] Code
-  - [ ] Citations
+  - [X] Listes
+  - [X] Formatage de texte (italique, souligné, gras)
+  - [X] Code
+  - [X] Citations
   - [ ] Tableaux
-  - [ ] Liens
+  - [X] Liens
 - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 - [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
