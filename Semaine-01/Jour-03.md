@@ -34,16 +34,16 @@ Seulement si le wargame bandit est au niveau 5 minimum :
   - [X] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [X] https://www.conventionalcommits.org/fr/v1.0.0/
   - [X] Renommer son dernier commit en respectant cette convention
-* [ ] Comprendre le fonctionnement des branches dans Git :
+* [X] Comprendre le fonctionnement des branches dans Git :
   - [X] Lister, changer, créer, supprimer des branches
-  - [ ] Quelle est la différence entre `Git switch` et `Git checkout`
-* [ ] Comprendre le merge dans Git
+  - [X] Quelle est la différence entre `Git switch` et `Git checkout`
+* [X] Comprendre le merge dans Git
   - [X] Comprendre le "fast forward"
-  - [ ] Quelle est la différence entre un "commit" et un "merge commit" ?
+  - [X] Quelle est la différence entre un "commit" et un "merge commit" ?
 
 #### Github
 
-- [ ] Pimper son profile Github (belle du village)
+- [X] Pimper son profile Github (belle du village)
 - [X] Configurer un tunnel SSH entre son local et son Github
 - [X] Découvrir l'interface de Github :
   - [X] Pull Requests
