@@ -5,9 +5,9 @@
 ### Git fondamentaux avancés
 
 - [X] Comprendre le fonctionnement des références et pointeurs dans Git
-- [ ] Comprendre le merge dans Git (approfondissement)
-- [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
-  - [ ] Savoir utiliser le `git rebase`
+- [X] Comprendre le merge dans Git (approfondissement)
+- [X] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+  - [X] Savoir utiliser le `git rebase`
 - [ ] Comprendre la différence entre `git reset` et `git revert`
 - [ ] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
