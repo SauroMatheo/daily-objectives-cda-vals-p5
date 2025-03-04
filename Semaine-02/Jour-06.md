@@ -13,7 +13,7 @@
 - [X] Comprendre l'utilité et le fonctionnement de `git stash`
 - [X] Comprendre et utiliser le `git diff` (quelle utilité)
 - [X] Comprendre la différence entre `git log` et `git show` + les flags principaux
-- [ ] Comprendre et utiliser le `git fetch`
+- [X] Comprendre et utiliser le `git fetch`
 - [ ] `.gitignore` global ou pas ?
 - [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
   - [ ] À quoi sert la commande `git fetch —prune`
