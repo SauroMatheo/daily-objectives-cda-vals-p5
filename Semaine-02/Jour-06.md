@@ -24,4 +24,4 @@
 ### Git avancé
 
 - [X] Comprendre l'utilité et savoir utiliser `git cherry-pick`
-- [ ] Comprendre l'utilité et savoir utiliser `git bisect`
+- [X] Comprendre l'utilité et savoir utiliser `git bisect`
