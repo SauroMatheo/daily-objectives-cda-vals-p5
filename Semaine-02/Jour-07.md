@@ -21,8 +21,8 @@
   - [X] Différenciateur (par ex : Delta)
   - [X] Aliases
   - [X] Comprendre la différence entre config locale, globale et système
-- [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
-- [ ] Savoir travailler avec `git fetch`
+- [X] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
+- [X] Savoir travailler avec `git fetch`
 
 ### IA
 
