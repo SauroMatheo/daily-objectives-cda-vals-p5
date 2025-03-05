@@ -16,9 +16,9 @@
 - [X] Découverte de LazyGit
   - [X] Installation et configuration
   - [X] Intégration dans son editeur / workflow
-- [ ] Configurer son git de manière avancée :
+- [X] Configurer son git de manière avancée :
   - [X] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
-  - [ ] Différenciateur (par ex : Delta)
+  - [X] Différenciateur (par ex : Delta)
   - [X] Aliases
   - [X] Comprendre la différence entre config locale, globale et système
 - [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
