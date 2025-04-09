@@ -3,32 +3,32 @@
 ## Mardi 08/04/2025 :
 
 ### Approfondissement du MCD (Modèle Conceptuel de Données)
-- [ ] Maîtriser les concepts avancés du MCD
+- [X] Maîtriser les concepts avancés du MCD
   - [X] Les associations réflexives
-  - [ ] Les sous-types et sur-types (héritage)
+  - [X] Les sous-types et sur-types (héritage)
   - [X] Les contraintes d'intégrité
 
 ### Règles de passage du MCD au MLD
-- [ ] Comprendre les règles de transformation
-  - [ ] Transformation des entités
-  - [ ] Transformation des associations 1:N
-  - [ ] Transformation des associations N:M
-  - [ ] Traitement des cardinalités minimales
-  - [ ] Gestion des contraintes
+- [X] Comprendre les règles de transformation
+  - [X] Transformation des entités
+  - [X] Transformation des associations 1:N
+  - [X] Transformation des associations N:M
+  - [X] Traitement des cardinalités minimales
+  - [X] Gestion des contraintes
 
 ### Outils de modélisation
 - [ ] Découvrir les outils pour créer des MCD
-  - [ ] Présentation de différents logiciels (Looping, JMCAD, etc.)
-  - [ ] Création d'un MCD avec un outil numérique
+  - [X] Présentation de différents logiciels (Looping, JMCAD, etc.)
+  - [X] Création d'un MCD avec un outil numérique
   - [ ] Fonctionnalités d'export et import
   - [ ] Génération de scripts SQL
 
 ### Brief Kéké Voyages : Conception MCD
-- [ ] Analyser le contexte et les besoins
-  - [ ] Relecture du brief Kéké Voyages
-  - [ ] Identification des entités principales (vols, réservations, passagers...)
-  - [ ] Listing exhaustif des informations à stocker
-  - [ ] Définition des règles de gestion
+- [X] Analyser le contexte et les besoins
+  - [X] Relecture du brief Kéké Voyages
+  - [X] Identification des entités principales (vols, réservations, passagers...)
+  - [X] Listing exhaustif des informations à stocker
+  - [X] Définition des règles de gestion
 - [ ] Concevoir le MCD complet pour l'agence de voyages
   - [ ] Modélisation des entités avec leurs attributs
   - [ ] Établissement des relations entre entités
