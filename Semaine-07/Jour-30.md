@@ -4,9 +4,9 @@
 
 ### Approfondissement du MCD (Modèle Conceptuel de Données)
 - [ ] Maîtriser les concepts avancés du MCD
-  - [ ] Les associations réflexives
+  - [X] Les associations réflexives
   - [ ] Les sous-types et sur-types (héritage)
-  - [ ] Les contraintes d'intégrité
+  - [X] Les contraintes d'intégrité
 
 ### Règles de passage du MCD au MLD
 - [ ] Comprendre les règles de transformation
