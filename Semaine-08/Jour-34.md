@@ -20,11 +20,11 @@
 
 ### Introduction aux bases de données relationnelles
 
-- [ ] Comprendre les concepts fondamentaux
-  - [ ] Tables et relations
-  - [ ] Clés primaires et étrangères
-  - [ ] Normalisation
-  - [ ] Intégrité référentielle
+- [X] Comprendre les concepts fondamentaux
+  - [X] Tables et relations
+  - [X] Clés primaires et étrangères
+  - [X] Normalisation
+  - [X] Intégrité référentielle
   
 - [ ] Vue d'ensemble des différents types de commandes SQL
   - [ ] DDL (Data Definition Language)
