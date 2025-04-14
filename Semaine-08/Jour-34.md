@@ -4,12 +4,12 @@
 
 ### Préparation du Dossier Projet (DP)
 
-- [ ] Initialisation du repository selon les exigences du titre
-  - [ ] Création d'un README.md professionnel détaillant :
-    - [ ] Le contexte du projet
-    - [ ] Les objectifs
-    - [ ] Les technologies utilisées
-    - [ ] L'architecture globale
+- [X] Initialisation du repository selon les exigences du titre
+  - [X] Création d'un README.md professionnel détaillant :
+    - [X] Le contexte du projet
+    - [X] Les objectifs
+    - [X] Les technologies utilisées
+    - [X] L'architecture globale
 
 - [ ] Mise en place de la structure documentaire pour les compétences du titre
   - [ ] Dossier "Conception" pour le bloc 1
