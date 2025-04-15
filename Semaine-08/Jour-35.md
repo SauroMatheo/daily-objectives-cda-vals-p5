@@ -4,10 +4,10 @@
 
 ### Installation et Configuration de PostgreSQL
 
-- [ ] Préparation de l'environnement
-  - [ ] Téléchargement de PostgreSQL
-  - [ ] Installation du SGBD
-  - [ ] Vérification de l'installation
+- [X] Préparation de l'environnement
+  - [X] Téléchargement de PostgreSQL
+  - [X] Installation du SGBD
+  - [X] Vérification de l'installation
 
 - [ ] Configuration initiale
   - [ ] Paramétrage du service PostgreSQL
