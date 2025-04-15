@@ -23,11 +23,11 @@
     - [ ] Configuration
     - [ ] Première connexion
     - [ ] Tour d'horizon de l'interface
-  - [ ] psql
-    - [ ] Installation
-    - [ ] Variables d'environnement
-    - [ ] Test de connexion
-    - [ ] Commandes de base
+  - [X] psql
+    - [X] Installation
+    - [X] Variables d'environnement
+    - [X] Test de connexion
+    - [X] Commandes de base
   - [ ] pgcli
     - [ ] Installation
     - [ ] Configuration
