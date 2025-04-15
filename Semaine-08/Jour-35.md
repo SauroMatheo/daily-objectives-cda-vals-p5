@@ -9,13 +9,13 @@
   - [X] Installation du SGBD
   - [X] Vérification de l'installation
 
-- [ ] Configuration initiale
-  - [ ] Paramétrage du service PostgreSQL
-  - [ ] Configuration du port et des connexions
-  - [ ] Gestion du fichier postgresql.conf
-  - [ ] Gestion du fichier pg_hba.conf
-  - [ ] Création du premier utilisateur
-  - [ ] Test de la connexion
+- [X] Configuration initiale
+  - [X] Paramétrage du service PostgreSQL
+  - [X] Configuration du port et des connexions
+  - [X] Gestion du fichier postgresql.conf
+  - [X] Gestion du fichier pg_hba.conf
+  - [X] Création du premier utilisateur
+  - [X] Test de la connexion
 
 - [ ] Installation et configuration des outils
   - [ ] pgAdmin 4
