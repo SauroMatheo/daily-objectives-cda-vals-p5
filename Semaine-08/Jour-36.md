@@ -17,9 +17,9 @@
   - [X] Sauvegarde avec pg_dump
     - [X] Options et formats disponibles
     - [X] Sauvegarde complète vs partielle
-  - [ ] Restauration d'une base de données
-    - [ ] Utilisation de psql pour la restauration
-    - [ ] Gestion des erreurs lors de la restauration
+  - [X] Restauration d'une base de données
+    - [X] Utilisation de psql pour la restauration
+    - [X] Gestion des erreurs lors de la restauration
   - [ ] Planification des sauvegardes
 
 ### SQL - Data Control Language (DCL) avec PostgreSQL
