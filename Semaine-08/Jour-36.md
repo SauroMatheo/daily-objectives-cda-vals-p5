@@ -50,8 +50,8 @@
     - [ ] Impact sur les utilisateurs
 
 - [ ] Bonnes pratiques de sécurité
-  - [ ] Principe du moindre privilège
-  - [ ] Gestion des mots de passe
+  - [X] Principe du moindre privilège
+  - [X] Gestion des mots de passe
   - [ ] Documentation des droits
 
 - [ ] Exercices pratiques
