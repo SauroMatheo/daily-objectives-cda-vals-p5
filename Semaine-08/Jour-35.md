@@ -17,7 +17,7 @@
   - [X] Création du premier utilisateur
   - [X] Test de la connexion
 
-- [ ] Installation et configuration des outils
+- [X] Installation et configuration des outils
   - [X] pgAdmin 4
     - [X] Installation
     - [X] Configuration
@@ -28,10 +28,10 @@
     - [X] Variables d'environnement
     - [X] Test de connexion
     - [X] Commandes de base
-  - [ ] pgcli
-    - [ ] Installation
-    - [ ] Configuration
-    - [ ] Personnalisation
+  - [X] pgcli
+    - [X] Installation
+    - [X] Configuration
+    - [X] Personnalisation
 
 ### Premiers pas pratiques
 
