@@ -13,10 +13,10 @@
   - [X] Import des données via commandes terminal
   - [X] Vérification de l'intégrité des données
 
-- [ ] Sauvegarde et restauration
-  - [ ] Sauvegarde avec pg_dump
-    - [ ] Options et formats disponibles
-    - [ ] Sauvegarde complète vs partielle
+- [X] Sauvegarde et restauration
+  - [X] Sauvegarde avec pg_dump
+    - [X] Options et formats disponibles
+    - [X] Sauvegarde complète vs partielle
   - [ ] Restauration d'une base de données
     - [ ] Utilisation de psql pour la restauration
     - [ ] Gestion des erreurs lors de la restauration
