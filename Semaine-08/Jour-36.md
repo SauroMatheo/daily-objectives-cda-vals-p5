@@ -35,19 +35,19 @@
     - [X] DROP USER
     - [ ] Précautions à prendre
 
-- [ ] Gestion des droits
-  - [ ] Privilèges de base
-    - [ ] SELECT
-    - [ ] INSERT
-    - [ ] UPDATE
-    - [ ] DELETE
-  - [ ] Attribution des droits
-    - [ ] GRANT
-    - [ ] Sur les tables
-    - [ ] Sur les bases de données
-  - [ ] Révocation des droits
-    - [ ] REVOKE
-    - [ ] Impact sur les utilisateurs
+- [X] Gestion des droits
+  - [X] Privilèges de base
+    - [X] SELECT
+    - [X] INSERT
+    - [X] UPDATE
+    - [X] DELETE
+  - [X] Attribution des droits
+    - [X] GRANT
+    - [X] Sur les tables
+    - [X] Sur les bases de données
+  - [X] Révocation des droits
+    - [X] REVOKE
+    - [X] Impact sur les utilisateurs
 
 - [ ] Bonnes pratiques de sécurité
   - [X] Principe du moindre privilège
