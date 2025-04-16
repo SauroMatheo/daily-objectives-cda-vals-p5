@@ -7,11 +7,11 @@
   - [X] Définition du schéma de la base
   - [X] Création des tables avec relations
 
-- [ ] Import de données avec Mockaroo
-  - [ ] Découverte de Mockaroo
-  - [ ] Génération de données de test réalistes
-  - [ ] Import des données via commandes terminal
-  - [ ] Vérification de l'intégrité des données
+- [X] Import de données avec Mockaroo
+  - [X] Découverte de Mockaroo
+  - [X] Génération de données de test réalistes
+  - [X] Import des données via commandes terminal
+  - [X] Vérification de l'intégrité des données
 
 - [ ] Sauvegarde et restauration
   - [ ] Sauvegarde avec pg_dump
