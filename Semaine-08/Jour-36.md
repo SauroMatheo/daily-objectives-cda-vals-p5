@@ -4,7 +4,7 @@
 
 ### Création et manipulation d'une base de données 
 - [ ] Création d'une base de données complète
-  - [ ] Définition du schéma de la base
+  - [X] Définition du schéma de la base
   - [ ] Création des tables avec relations
 
 - [ ] Import de données avec Mockaroo
@@ -25,14 +25,14 @@
 ### SQL - Data Control Language (DCL) avec PostgreSQL
 
 - [ ] Gestion des utilisateurs
-  - [ ] Création d'utilisateurs
-    - [ ] CREATE USER
-    - [ ] Définition du mot de passe
-  - [ ] Modification d'utilisateurs
-    - [ ] ALTER USER
-    - [ ] Changement de mot de passe
+  - [X] Création d'utilisateurs
+    - [X] CREATE USER
+    - [X] Définition du mot de passe
+  - [X] Modification d'utilisateurs
+    - [X] ALTER USER
+    - [X] Changement de mot de passe
   - [ ] Suppression d'utilisateurs
-    - [ ] DROP USER
+    - [X] DROP USER
     - [ ] Précautions à prendre
 
 - [ ] Gestion des droits
