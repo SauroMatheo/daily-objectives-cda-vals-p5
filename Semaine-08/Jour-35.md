@@ -18,11 +18,11 @@
   - [X] Test de la connexion
 
 - [ ] Installation et configuration des outils
-  - [ ] pgAdmin 4
-    - [ ] Installation
-    - [ ] Configuration
-    - [ ] Première connexion
-    - [ ] Tour d'horizon de l'interface
+  - [X] pgAdmin 4
+    - [X] Installation
+    - [X] Configuration
+    - [X] Première connexion
+    - [X] Tour d'horizon de l'interface
   - [X] psql
     - [X] Installation
     - [X] Variables d'environnement
