@@ -3,9 +3,9 @@
 ## Objectifs du jour
 
 ### Création et manipulation d'une base de données 
-- [ ] Création d'une base de données complète
+- [X] Création d'une base de données complète
   - [X] Définition du schéma de la base
-  - [ ] Création des tables avec relations
+  - [X] Création des tables avec relations
 
 - [ ] Import de données avec Mockaroo
   - [ ] Découverte de Mockaroo
