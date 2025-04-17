@@ -56,12 +56,12 @@
     - [X] COUNT, SUM, AVG
     - [X] MIN, MAX
 
-- [ ] Jointures de tables
-  - [ ] INNER JOIN
-  - [ ] LEFT JOIN
-  - [ ] RIGHT JOIN
-  - [ ] Cas d'usage typiques
-  - [ ] Bonnes pratiques
+- [X] Jointures de tables
+  - [X] INNER JOIN
+  - [X] LEFT JOIN
+  - [X] RIGHT JOIN
+  - [X] Cas d'usage typiques
+  - [X] Bonnes pratiques
 
 - [ ] Insertion de données
   - [ ] INSERT INTO
