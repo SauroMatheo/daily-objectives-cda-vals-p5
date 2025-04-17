@@ -22,13 +22,13 @@
     - [ ] Supprimer une colonne
   - [ ] DROP TABLE
 
-- [ ] Gestion des contraintes
-  - [ ] PRIMARY KEY
-  - [ ] FOREIGN KEY
-  - [ ] NOT NULL
-  - [ ] UNIQUE
-  - [ ] DEFAULT
-  - [ ] CHECK (basique)
+- [X] Gestion des contraintes
+  - [X] PRIMARY KEY
+  - [X] FOREIGN KEY
+  - [X] NOT NULL
+  - [X] UNIQUE
+  - [X] DEFAULT
+  - [X] CHECK (basique)
 
 - [ ] Index
   - [ ] Création d'index simples
