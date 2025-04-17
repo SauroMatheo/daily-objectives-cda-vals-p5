@@ -9,18 +9,18 @@
   - [X] DROP DATABASE
   - [X] Bonnes pratiques de nommage
 
-- [ ] Création et modification de tables
+- [X] Création et modification de tables
   - [X] Types de données de base
     - [X] Numériques (INTEGER, DECIMAL)
     - [X] Texte (VARCHAR, TEXT)
     - [X] Dates (DATE, TIMESTAMP)
     - [X] Booléens
-  - [ ] CREATE TABLE
-  - [ ] ALTER TABLE
-    - [ ] Ajouter une colonne
-    - [ ] Modifier une colonne
-    - [ ] Supprimer une colonne
-  - [ ] DROP TABLE
+  - [X] CREATE TABLE
+  - [X] ALTER TABLE
+    - [X] Ajouter une colonne
+    - [X] Modifier une colonne
+    - [X] Supprimer une colonne
+  - [X] DROP TABLE
 
 - [X] Gestion des contraintes
   - [X] PRIMARY KEY
