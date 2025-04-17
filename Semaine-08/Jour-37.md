@@ -4,10 +4,10 @@
 
 ### SQL - Data Definition Language (DDL) avec PostgreSQL
 
-- [ ] Création et gestion des bases de données
-  - [ ] CREATE DATABASE
-  - [ ] DROP DATABASE
-  - [ ] Bonnes pratiques de nommage
+- [X] Création et gestion des bases de données
+  - [X] CREATE DATABASE
+  - [X] DROP DATABASE
+  - [X] Bonnes pratiques de nommage
 
 - [ ] Création et modification de tables
   - [ ] Types de données de base
