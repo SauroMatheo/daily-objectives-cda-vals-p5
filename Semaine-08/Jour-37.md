@@ -43,18 +43,18 @@
 
 ### SQL - Data Manipulation Language (DML) avec PostgreSQL
 
-- [ ] Requêtes de sélection (SELECT)
-  - [ ] Structure de base
-    - [ ] SELECT, FROM, WHERE
-    - [ ] ORDER BY, LIMIT
-    - [ ] GROUP BY, HAVING
-  - [ ] Opérateurs de comparaison
-    - [ ] =, <>, >, <, >=, <=
-    - [ ] BETWEEN, IN, LIKE
-    - [ ] IS NULL, IS NOT NULL
-  - [ ] Fonctions d'agrégation
-    - [ ] COUNT, SUM, AVG
-    - [ ] MIN, MAX
+- [X] Requêtes de sélection (SELECT)
+  - [X] Structure de base
+    - [X] SELECT, FROM, WHERE
+    - [X] ORDER BY, LIMIT
+    - [X] GROUP BY, HAVING
+  - [X] Opérateurs de comparaison
+    - [X] =, <>, >, <, >=, <=
+    - [X] BETWEEN, IN, LIKE
+    - [X] IS NULL, IS NOT NULL
+  - [X] Fonctions d'agrégation
+    - [X] COUNT, SUM, AVG
+    - [X] MIN, MAX
 
 - [ ] Jointures de tables
   - [ ] INNER JOIN
