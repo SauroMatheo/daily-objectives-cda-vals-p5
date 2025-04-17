@@ -10,11 +10,11 @@
   - [X] Bonnes pratiques de nommage
 
 - [ ] Création et modification de tables
-  - [ ] Types de données de base
-    - [ ] Numériques (INTEGER, DECIMAL)
-    - [ ] Texte (VARCHAR, TEXT)
-    - [ ] Dates (DATE, TIMESTAMP)
-    - [ ] Booléens
+  - [X] Types de données de base
+    - [X] Numériques (INTEGER, DECIMAL)
+    - [X] Texte (VARCHAR, TEXT)
+    - [X] Dates (DATE, TIMESTAMP)
+    - [X] Booléens
   - [ ] CREATE TABLE
   - [ ] ALTER TABLE
     - [ ] Ajouter une colonne
