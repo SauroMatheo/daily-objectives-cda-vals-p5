@@ -30,10 +30,10 @@
   - [X] DEFAULT
   - [X] CHECK (basique)
 
-- [ ] Index
-  - [ ] Création d'index simples
-  - [ ] Quand utiliser les index
-  - [ ] Impact sur les performances
+- [X] Index
+  - [X] Création d'index simples
+  - [X] Quand utiliser les index
+  - [X] Impact sur les performances
 
 - [ ] Exercices pratiques
   - [ ] Création d'une base de données pour un cas concret
