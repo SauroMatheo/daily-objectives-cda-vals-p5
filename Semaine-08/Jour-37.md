@@ -64,10 +64,10 @@
   - [X] Bonnes pratiques
 
 - [ ] Insertion de données
-  - [ ] INSERT INTO
-    - [ ] Insertion simple
-    - [ ] Insertion multiple
-    - [ ] INSERT INTO SELECT
+  - [X] INSERT INTO
+    - [X] Insertion simple
+    - [X] Insertion multiple
+    - [X] INSERT INTO SELECT
   - [ ] Gestion des erreurs courantes
 
 - [ ] Modification de données
