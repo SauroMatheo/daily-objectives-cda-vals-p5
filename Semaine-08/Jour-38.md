@@ -9,21 +9,21 @@
 - [ ] Programmation SQL
   - [ ] Comprendre les blocs anonymes
   - [ ] Créer et appeler une procédure stockée
-  - [ ] Créer et utiliser une fonction
+  - [X] Créer et utiliser une fonction
   - [ ] Utiliser les paramètres IN, OUT, INOUT
   - [ ] Gérer les erreurs avec EXCEPTION WHEN
 
-- [ ] Triggers
-  - [ ] Comprendre le rôle des triggers
-  - [ ] Créer une fonction de trigger
-  - [ ] Créer un trigger BEFORE ou AFTER
-  - [ ] Appliquer un trigger sur INSERT, UPDATE ou DELETE
+- [X] Triggers
+  - [X] Comprendre le rôle des triggers
+  - [X] Créer une fonction de trigger
+  - [X] Créer un trigger BEFORE ou AFTER
+  - [X] Appliquer un trigger sur INSERT, UPDATE ou DELETE
   
-- [ ] Vues et Vues Matérialisées
-  - [ ] Créer une vue
-  - [ ] Limites d'une vue
-  - [ ] Créer une vue matérialisée
-  - [ ] Rafraîchir une vue matérialisée
+- [X] Vues et Vues Matérialisées
+  - [X] Créer une vue
+  - [X] Limites d'une vue
+  - [X] Créer une vue matérialisée
+  - [X] Rafraîchir une vue matérialisée
   
 - [ ] Séquences et Sérialisation
   - [ ] Créer une séquence
