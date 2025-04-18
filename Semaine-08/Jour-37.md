@@ -70,12 +70,12 @@
     - [X] INSERT INTO SELECT
   - [ ] Gestion des erreurs courantes
 
-- [ ] Modification de données
-  - [ ] UPDATE
-    - [ ] Mise à jour simple
-    - [ ] Avec conditions WHERE
-    - [ ] Avec jointures
-  - [ ] Bonnes pratiques de sécurité
+- [X] Modification de données
+  - [X] UPDATE
+    - [X] Mise à jour simple
+    - [X] Avec conditions WHERE
+    - [X] Avec jointures
+  - [X] Bonnes pratiques de sécurité
 
 - [ ] Suppression de données
   - [ ] DELETE
