@@ -20,7 +20,7 @@
   - [X] Restauration d'une base de données
     - [X] Utilisation de psql pour la restauration
     - [X] Gestion des erreurs lors de la restauration
-  - [ ] Planification des sauvegardes
+  - [X] Planification des sauvegardes
 
 ### SQL - Data Control Language (DCL) avec PostgreSQL
 
