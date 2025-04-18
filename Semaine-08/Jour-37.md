@@ -77,13 +77,13 @@
     - [X] Avec jointures
   - [X] Bonnes pratiques de sécurité
 
-- [ ] Suppression de données
-  - [ ] DELETE
-    - [ ] Avec conditions
-    - [ ] Bonnes pratiques
-  - [ ] TRUNCATE
-    - [ ] Différence avec DELETE
-    - [ ] Précautions à prendre
+- [X] Suppression de données
+  - [X] DELETE
+    - [X] Avec conditions
+    - [X] Bonnes pratiques
+  - [X] TRUNCATE
+    - [X] Différence avec DELETE
+    - [X] Précautions à prendre
 
 - [ ] Exercices pratiques
   - [ ] Requêtes de sélection complexes
