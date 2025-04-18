@@ -35,15 +35,15 @@
 
 ### Premiers pas pratiques
 
-- [ ] Création d'une première base de données
-  - [ ] Utilisation de createdb
-  - [ ] Configuration des paramètres de base
-  - [ ] Gestion des encodages
-  - [ ] Gestion des collations
+- [X] Création d'une première base de données
+  - [X] Utilisation de createdb
+  - [X] Configuration des paramètres de base
+  - [X] Gestion des encodages
+  - [X] Gestion des collations
 
-- [ ] Navigation et manipulation de base
-  - [ ] Connexion à une base
-  - [ ] Création d'un schéma
-  - [ ] Création d'une table simple
-  - [ ] Insertion de données de test
-  - [ ] Requêtes simples de vérification
+- [X] Navigation et manipulation de base
+  - [X] Connexion à une base
+  - [X] Création d'un schéma
+  - [X] Création d'une table simple
+  - [X] Insertion de données de test
+  - [X] Requêtes simples de vérification
