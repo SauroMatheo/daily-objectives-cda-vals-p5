@@ -4,8 +4,8 @@
 
 ### Brief NetStream
 
-- [ ] Réalisation d'une grille d'évaluation
-- [ ] Correction croisée entre groupes
+- [X] Réalisation d'une grille d'évaluation
+- [X] Correction croisée entre groupes
 
 ### Introduction à Java et à la POO
 
