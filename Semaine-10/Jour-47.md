@@ -23,9 +23,9 @@
   - [X] Utiliser les structures conditionnelles
   - [X] Connaître les différentes structures répétitives
 
-- [ ] Découvrir le mécanisme de typage 
-  - [ ] Comprendre les types existants
-  - [ ] Savoir convertir les variables d'un type à un autre
+- [X] Découvrir le mécanisme de typage 
+  - [X] Comprendre les types existants
+  - [X] Savoir convertir les variables d'un type à un autre
 
 - [ ] Premiers pas en POO
   - [ ] Comprendre les concepts fondamentaux de la POO en Java
