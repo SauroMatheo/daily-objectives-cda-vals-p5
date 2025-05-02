@@ -15,13 +15,13 @@
   - [X] Comprendre la compilation et l'exécution en Java
   - [X] Compiler et exécuter son premier programme sans IDE
 
-- [ ] Découvrir la syntaxe basique
-  - [ ] Réaliser une classe minimale
-  - [ ] Utiliser la méthode d’entrée de l’application
-  - [ ] Afficher des informations dans la console
-  - [ ] Savoir récupérer des informations saisies au clavier
-  - [ ] Utiliser les structures conditionnelles
-  - [ ] Connaître les différentes structures répétitives
+- [X] Découvrir la syntaxe basique
+  - [X] Réaliser une classe minimale
+  - [X] Utiliser la méthode d’entrée de l’application
+  - [X] Afficher des informations dans la console
+  - [X] Savoir récupérer des informations saisies au clavier
+  - [X] Utiliser les structures conditionnelles
+  - [X] Connaître les différentes structures répétitives
 
 - [ ] Découvrir le mécanisme de typage 
   - [ ] Comprendre les types existants
