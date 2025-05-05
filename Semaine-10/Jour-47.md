@@ -36,9 +36,9 @@
   - [ ] Créer une instance
   - [ ] Appeler une méthode d'instance
 
-- [ ] Comprendre et corriger les erreurs
-  - [ ] Lire un message de compilation
-  - [ ] Stratégies de débogage de base
+- [X] Comprendre et corriger les erreurs
+  - [X] Lire un message de compilation
+  - [X] Stratégies de débogage de base
 
 - [ ] Pour aller plus loin (optionnel)
   - [ ] Comprendre l'utilisation de Maven
