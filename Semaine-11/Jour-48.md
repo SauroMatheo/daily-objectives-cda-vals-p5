@@ -7,14 +7,14 @@
 - [ ] Découverte des types de programmation possibles (avantages et inconvénients de chacun)
   - [ ] Impérative
   - [ ] Procédurale
-  - [ ] Orientée objet
+  - [X] Orientée objet
   - [ ] Fonctionnelle
-- [ ] Découverte des concepts clés de la POO :
-  - [ ] Classe
-  - [ ] Objet
-  - [ ] Attribut
-  - [ ] Méthode
-  - [ ] Instanciation
-  - [ ] Constructeur
-  - [ ] Accesseurs
-  - [ ] Encapsulation
+- [X] Découverte des concepts clés de la POO :
+  - [X] Classe
+  - [X] Objet
+  - [X] Attribut
+  - [X] Méthode
+  - [X] Instanciation
+  - [X] Constructeur
+  - [X] Accesseurs
+  - [X] Encapsulation
