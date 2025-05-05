@@ -40,11 +40,11 @@
   - [X] Lire un message de compilation
   - [X] Stratégies de débogage de base
 
-- [ ] Pour aller plus loin (optionnel)
+- [X] Pour aller plus loin (optionnel)
   - [X] Comprendre l'utilisation de Maven
   - [X] Installer et configurer Maven sur son environnement
   - [X] Savoir lire un fichier pom.xml
-  - [ ] Créer un 1er projet Web à l'aide de SpringBoot
+  - [X] Créer un 1er projet Web à l'aide de SpringBoot
 
 - [ ] Exercices pratiques
   - [ ] TP fourni
