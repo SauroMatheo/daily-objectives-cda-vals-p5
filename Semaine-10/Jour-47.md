@@ -47,6 +47,6 @@
   - [X] Créer un 1er projet Web à l'aide de SpringBoot
 
 - [ ] Exercices pratiques
-  - [ ] TP fourni
+  - [X] TP fourni
   - [ ] Exercice Devinette
   - [ ] Exercice Calculatrice
