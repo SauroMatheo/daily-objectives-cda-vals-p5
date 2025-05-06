@@ -4,10 +4,10 @@
 
 ### Programmation Orientée Objet - Abstraction et Collections
 
-- [ ] Découverte de l'Abstraction
-  - [ ] Bilan sur l'héritage
-  - [ ] Notion de classes abstraites
-  - [ ] Notion d'interface
+- [X] Découverte de l'Abstraction
+  - [X] Bilan sur l'héritage
+  - [X] Notion de classes abstraites
+  - [X] Notion d'interface
 
 - [ ] Découvrir les Collections Java
   - [ ] List (ArrayList, LinkedList)
