@@ -19,6 +19,7 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
   - [X] Premier test avec "Hello World"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [X] Comprendre les concepts de base
   - [X] Images vs Conteneurs
   - [X] Registres Docker
@@ -29,3 +30,9 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
   - [ ] Registres Docker
   - [X] Docker Hub 
 >>>>>>> c7fae6e (feat(j69): global understanding thanks to the guide)
+=======
+- [X] Comprendre les concepts de base
+  - [X] Images vs Conteneurs
+  - [X] Registres Docker
+  - [X] Docker Hub 
+>>>>>>> e9952fe (feat(69): cleared misunderstanding about registries)
