@@ -17,8 +17,8 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
   - [X] Comprendre le mapping des ports
   - [X] Gérer les variables d'environnement
 
-- [ ] Gestion des images Docker
-  - [ ] Comprendre la structure des images
+- [X] Gestion des images Docker
+  - [X] Comprendre la structure des images
   - [X] Télécharger des images depuis Docker Hub
   - [X] Lister et supprimer des images
   - [X] Comprendre le système de tags
