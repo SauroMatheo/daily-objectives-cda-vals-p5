@@ -6,7 +6,7 @@
 
 Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
-- [ ] Gestion des conteneurs Docker
+- [X] Gestion des conteneurs Docker
   - [X] Comprendre le cycle de vie d'un conteneur
   - [X] Maîtriser les commandes de base
     - [X] docker run
@@ -15,7 +15,7 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
     - [X] docker logs
     - [X] docker exec
   - [X] Comprendre le mapping des ports
-  - [ ] Gérer les variables d'environnement
+  - [X] Gérer les variables d'environnement
 
 - [ ] Gestion des images Docker
   - [ ] Comprendre la structure des images
