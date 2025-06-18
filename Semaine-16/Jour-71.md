@@ -30,6 +30,6 @@ Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
   - [X] Gestion des versions
 
 - [ ] Travaux Pratiques
-  - [ ] Créer une image pour une application Node.js
+  - [X] Créer une image pour une application Node.js
   - [ ] Optimiser l'image avec multi-stage build
-  - [ ] Publier l'image sur Docker Hub 
+  - [X] Publier l'image sur Docker Hub 
