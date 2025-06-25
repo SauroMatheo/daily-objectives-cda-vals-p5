@@ -6,26 +6,26 @@
 
 Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-github-actions)
 
-- [ ] Introduction aux fondamentaux CI/CD
-  - [ ] Comprendre les principes de l'Intégration Continue
-  - [ ] Comprendre les principes du Déploiement Continu
-  - [ ] Identifier les avantages de la CI/CD
-  - [ ] Découvrir les principaux outils du marché
+- [X] Introduction aux fondamentaux CI/CD
+  - [X] Comprendre les principes de l'Intégration Continue
+  - [X] Comprendre les principes du Déploiement Continu
+  - [X] Identifier les avantages de la CI/CD
+  - [X] Découvrir les principaux outils du marché
 
-- [ ] Découverte de GitHub Actions
-  - [ ] Comprendre ce qu'est GitHub Actions
-  - [ ] Identifier les cas d'usage
-  - [ ] Explorer l'interface GitHub Actions
-  - [ ] Comprendre la facturation et les limites
+- [X] Découverte de GitHub Actions
+  - [X] Comprendre ce qu'est GitHub Actions
+  - [X] Identifier les cas d'usage
+  - [X] Explorer l'interface GitHub Actions
+  - [X] Comprendre la facturation et les limites
 
-- [ ] Composants de base
-  - [ ] Workflows
-  - [ ] Jobs
-  - [ ] Steps
-  - [ ] Actions
-  - [ ] Runners
+- [X] Composants de base
+  - [X] Workflows
+  - [X] Jobs
+  - [X] Steps
+  - [X] Actions
+  - [X] Runners
 
 - [ ] Travaux Pratiques
-  - [ ] Explorer le Marketplace GitHub Actions
-  - [ ] Analyser des workflows existants
+  - [X] Explorer le Marketplace GitHub Actions
+  - [X] Analyser des workflows existants
   - [ ] Préparer son environnement de travail 
