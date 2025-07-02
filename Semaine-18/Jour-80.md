@@ -28,8 +28,8 @@
   - [ ] Créer des mocks avec `createMock()` ou Prophecy.
   - [ ] Écrire des assertions (ex: `assertEquals`, `assertTrue`).
 
-- [ ] **TypeScript (avec Jest ou Vitest) :**
+- [X] **TypeScript (avec Jest ou Vitest) :**
   - [X] Configurer Jest ou Vitest dans un projet Node.js/frontend.
   - [X] Utiliser les fonctions `describe`, `it` (ou `test`).
-  - [ ] Simuler des modules ou des fonctions avec `jest.mock()` ou `vi.mock()`.
+  - [X] Simuler des modules ou des fonctions avec `jest.mock()` ou `vi.mock()`.
   - [X] Écrire des assertions avec `expect()`. 
